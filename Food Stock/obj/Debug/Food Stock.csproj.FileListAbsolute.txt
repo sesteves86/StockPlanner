@@ -9,3 +9,7 @@ c:\users\sergio\documents\visual studio 2015\Projects\Food Stock\Food Stock\bin\
 c:\users\sergio\documents\visual studio 2015\Projects\Food Stock\Food Stock\bin\Debug\Food Stock.pdb
 c:\users\sergio\documents\visual studio 2015\Projects\Food Stock\Food Stock\obj\Debug\Food Stock.exe
 c:\users\sergio\documents\visual studio 2015\Projects\Food Stock\Food Stock\obj\Debug\Food Stock.pdb
+C:\Users\sergio\documents\visual studio 2015\Projects\Food Stock\Food Stock\bin\Debug\Food Stock.exe.manifest
+C:\Users\sergio\documents\visual studio 2015\Projects\Food Stock\Food Stock\bin\Debug\Food Stock.application
+C:\Users\sergio\documents\visual studio 2015\Projects\Food Stock\Food Stock\obj\Debug\Food Stock.exe.manifest
+C:\Users\sergio\documents\visual studio 2015\Projects\Food Stock\Food Stock\obj\Debug\Food Stock.application
