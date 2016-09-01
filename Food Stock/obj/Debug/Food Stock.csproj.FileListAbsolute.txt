@@ -1,0 +1,11 @@
+c:\users\sergio\documents\visual studio 2015\Projects\Food Stock\Food Stock\bin\Debug\Food Stock.exe.config
+c:\users\sergio\documents\visual studio 2015\Projects\Food Stock\Food Stock\obj\Debug\Food Stock.csprojResolveAssemblyReference.cache
+c:\users\sergio\documents\visual studio 2015\Projects\Food Stock\Food Stock\obj\Debug\Food_Stock.Form1.resources
+c:\users\sergio\documents\visual studio 2015\Projects\Food Stock\Food Stock\obj\Debug\Food_Stock.Properties.Resources.resources
+c:\users\sergio\documents\visual studio 2015\Projects\Food Stock\Food Stock\obj\Debug\Food Stock.csproj.GenerateResource.Cache
+c:\users\sergio\documents\visual studio 2015\Projects\Food Stock\Food Stock\bin\Debug\DBRecipes.mdf
+c:\users\sergio\documents\visual studio 2015\Projects\Food Stock\Food Stock\bin\Debug\DBRecipes_log.ldf
+c:\users\sergio\documents\visual studio 2015\Projects\Food Stock\Food Stock\bin\Debug\Food Stock.exe
+c:\users\sergio\documents\visual studio 2015\Projects\Food Stock\Food Stock\bin\Debug\Food Stock.pdb
+c:\users\sergio\documents\visual studio 2015\Projects\Food Stock\Food Stock\obj\Debug\Food Stock.exe
+c:\users\sergio\documents\visual studio 2015\Projects\Food Stock\Food Stock\obj\Debug\Food Stock.pdb
